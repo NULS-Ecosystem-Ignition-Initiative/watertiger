@@ -1,0 +1,67 @@
+[
+
+  {
+    "id": 609,
+    "logo": "logos/V2-NULS-NSWAP.png",
+    "name": "NULS/NSWAP LP",
+    "options": {
+      "convert": true,
+      "stake": true
+    },
+    "apr": 109.9,
+    "staked": 0,
+    "pair": "NULSd6HgnMqcZX3oRBWqDReUyD8BWCErCxawg",
+    "tvl": 9789888,
+    "claimable": 0,
+    "contract": "NULSd6Hgvd8hcovpG3v2E9oxAB7CtYACvu114",
+    "stakingContract": "NULSd6HgxfHms2qFVtBtuvfK8ovVeuHC14ZaY"
+  },
+  {
+    "id": 7092,
+    "logo": "logos/NSWAP-WTF.svg",
+    "name": "NSWAP/WTF LP",
+    "options": {
+      "convert": false,
+      "stake": true
+    },
+    "apr": 16.1,
+    "pair": "NULSd6Hgts1DifVoftWah8jvhf9qizektZVN5",
+    "staked": 0,
+    "tvl": 9543574,
+    "claimable": 0,
+    "contract": "NULSd6HgyjYonykouC699YgzDx7maX2fbsAnc",
+    "stakingContract": "NULSd6Hh191Ru4i2HqEPKrjRBVwZBNG8YpMY8"
+  },
+  {
+    "id": 903849,
+    "logo": "logos/NULS_USDTN.svg",
+    "name": "NULS/USDTN LP",
+    "options": {
+      "convert": false,
+      "stake": true
+    },
+    "apr": 16.1,
+    "pair": "NULSd6HgrCCY5WbGGN82MgdZGYHtUwkUUR2qz",
+    "staked": 0,
+    "tvl": 9543574,
+    "claimable": 0,
+    "contract": "NULSd6HgwN3xWEmF1YsVoLgnFTT31AVgEfLeB",
+    "stakingContract": "NULSd6HgjrSEu4nDSgoDSoeA4Xy1LfL2SccW6"
+  },
+  {
+  "id": 9023823,
+  "logo": "logos/nuls-ainuls.png",
+  "name": "NULS/aiNULS LP",
+  "options": {
+    "convert": false,
+    "stake": true
+  },
+  "apr": 16.1,
+  "staked": 0,
+  "pair": "NULSd6HgkaMVWQNks2itXNkoMaHgwSRsESu4K",
+  "tvl": 9543574,
+  "claimable": 0,
+  "contract": "NULSd6HgnYdjf4L9whMibRQAsKVJCZpUAqTwS",
+  "stakingContract": "NULSd6Hgz5L7ovGTe9MTmNPwi1tB5f6nfMmxD"
+}
+]

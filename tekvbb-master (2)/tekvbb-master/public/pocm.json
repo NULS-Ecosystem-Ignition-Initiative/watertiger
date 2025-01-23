@@ -1,0 +1,17 @@
+[
+  {
+    "id": 9,
+    "logo": "logos/earhart.png",
+    "name": "EHT",
+    "options": {
+      "convert": true,
+      "stake": true
+    },
+    "apr": 109.9,
+    "staked": 0,
+    "tvl": 9789888,
+    "claimable": 0,
+    "contract": "NULSd6HgvzxmmEa65N2L9MfPXX9e129ayQPEz",
+    "stakingContract": "NULSd6HgpPErXfLY2fkSmV1Ct6FDarSDZcdMi"
+  }
+]

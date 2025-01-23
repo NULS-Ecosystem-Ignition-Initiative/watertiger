@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3,
+    "logo": "logos/nswap-circ.svg",
+    "name": "Whitelist",
+    "options": {
+      "convert": false,
+      "stake": true
+    },
+    "apr": 16.1,
+    "staked": 0,
+    "tvl": 9543574,
+    "claimable": 0,
+    "contract": "NULSd6HgpTQVSzYXyAKhaHnZbguSb557HC5Cu",
+    "stakingContract": "NULSd6Hgzkkqe8wu38WCKPZVaTf1Cn2dNBzee"
+  },
+  {
+    "id": 4,
+    "logo": "logos/nswap-circ.svg",
+    "name": "Public Sale 1",
+    "options": {
+      "convert": true,
+      "stake": true
+    },
+    "apr": -210.8,
+    "staked": 0,
+    "tvl": 9343544,
+    "claimable": 0,
+    "contract": "NULSd6HgrdkoHJgSkhGkQsG54BgQ7MXMos3Lq",
+    "stakingContract": "NULSd6Hgz665dQja9Z4gRV5MNMxfnwhrHcxrG"
+  },
+  {
+    "id": 2,
+    "logo": "logos/nswap-circ.svg",
+    "name": "Public Sale 2",
+    "options": {
+      "convert": true,
+      "stake": true
+    },
+    "apr": -210.8,
+    "staked": 0,
+    "tvl": 9343544,
+    "claimable": 0,
+    "contract": "NULSd6HgoiZzwNtZT2FhJV4uBe7RZHXGSg19X",
+    "stakingContract": "NULSd6HgwrP1rEmwMTHuuCCkACdBe3MGWDJvZ"
+  },
+  {
+    "id": 5,
+    "logo": "logos/nswap-circ.svg",
+    "name": "Public Sale 3",
+    "options": {
+      "convert": true,
+      "stake": true
+    },
+    "apr": -210.8,
+    "staked": 0,
+    "tvl": 9343544,
+    "claimable": 0,
+    "contract": "NULSd6HgxK8kGjCRod2Mb18EqRVYupE3WXJCe",
+    "stakingContract": "NULSd6HgxK8kGjCRod2Mb18EqRVYupE3WXJCe"
+  }
+]

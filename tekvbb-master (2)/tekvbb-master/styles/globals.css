@@ -1,0 +1,152 @@
+@import-normalize;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  @font-face {
+    font-family: OpenSans;
+    src: local("OpenSans"),
+      url(../public/fonts/OpenSans.ttf);
+    font-weight: 100 900;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.imgLogo{
+  width:35px;
+  height:35px;
+}
+
+.imgMainLogo{
+  width:140px;
+  height:38px;
+}
+
+.priceSpan{
+  margin-right: 50px;
+}
+
+.claimVestBtn{
+  background-color: #32e08d;
+  border-radius: 2px;
+  padding: 0px 4px 0px 4px;
+  margin-left: 8px;
+  margin-bottom: 4px;
+}
+
+.saleBtn{
+  background-color: darkgray;
+  padding: 2px;
+  border-radius: 2px;
+  margin-top: 2px;
+  width:68px;
+}
+
+.preloaderBg {
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  background: #035f77;
+  opacity: 0.99;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.preloader {
+  margin: auto;
+  margin-top: 200px;
+  background: url(/images/logos/fastLogo.png) no-repeat center;
+  background-size: 150px;
+  width: 300px;
+  height: 300px;
+}
+
+
+.preloader2 {
+  border: 10px solid #f3f3f3;
+  border-top: 10px solid #013c50;
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  animation: spin 1s ease-in-out infinite ;
+  position: relative;
+  margin: auto;
+
+  top: -280px;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.saleBtnActive{
+  background-color: #32e08d;
+}
+
+.claimBtnShare{
+  font-size: 18px!important;
+  background-color: #32e08d;
+  color:black;
+  font-weight: bold;
+  border-radius: 4px;
+  padding: 4px 12px;
+  border:1px solid black;
+}
+
+.claimBtnShare:hover{
+  background-color: #03657d;
+  color:white;
+}
+
+.displayOut{
+  display: none;
+}
+
+.displayIn{
+  display: block;
+}
+
+.greyBtn div{
+ background-color: #9ca3af!important;
+}
+
+.alreadyClaimed{
+  background-color: #9ca3af!important;
+}
+
+.alertInfo{
+  position: fixed;
+  top: 90px;
+  right: 30px;
+  background-color: #32e08d;
+  height:74px;
+  width:190px;
+  padding: 8px;
+  border-radius: 8px;
+  color: white;
+  font-size: 14px;
+  text-align: center;
+  display: none;
+}
+
+.errorInfo{
+  position: fixed;
+  top: 90px;
+  right: 30px;
+  background-color: indianred;
+  height:38px;
+  width:190px;
+  padding: 8px;
+  border-radius: 8px;
+  color: white;
+  font-size: 14px;
+  text-align: center;
+  display: none;
+}
