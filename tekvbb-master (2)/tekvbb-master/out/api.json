@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "logo": "logos/wtf-circ.svg",
+    "name": "WTF",
+    "options": {
+      "convert": false,
+      "stake": true
+    },
+    "apr": 16.1,
+    "staked": 0,
+    "tvl": 9543574,
+    "claimable": 0,
+    "contract": "NULSd6Hgr7kEY9dEJVEpjsWAgmGRqBiMe9vL7",
+    "stakingContract": "NULSd6HgseP9QQinogwVkSqM4F4X7kDSFa2pd"
+  },
+  {
+    "id": 2,
+    "logo": "logos/answap.svg",
+    "name": "aNSWAP",
+    "options": {
+      "convert": true,
+      "stake": true
+    },
+    "apr": -210.8,
+    "staked": 0,
+    "tvl": 9343544,
+    "claimable": 0,
+    "contract": "NULSd6Hgo3N33FkPfiSfssTkevkSLyYi8MAYk",
+    "stakingContract": "NULSd6Hgxcz4y2JAHzje9LwLhx12Xuz5YmvW8"
+  },{
+  "id": 64628,
+  "logo": "logos/USDTN.png",
+  "name": "USDTN",
+  "options": {
+    "convert": true,
+    "stake": true
+  },
+  "apr": 109.9,
+  "staked": 0,
+  "pair": "NULSd6HgnMqcZX3oRBWqDReUyD8BWCErCxawg",
+  "tvl": 9789888,
+  "claimable": 0,
+  "contract": "NULSd6Hgvd8hcovpG3v2E9oxAB7CtYACvu114",
+  "stakingContract": "NULSd6Hgt6193U5Jar4WkCCGB3EWyVSSsPi6V"
+},{
+  "id": 6462838,
+  "logo": "logos/BNB.png",
+  "name": "BNB",
+  "options": {
+    "convert": true,
+    "stake": true
+  },
+  "apr": 109.9,
+  "staked": 0,
+  "pair": "NULSd6HgnMqcZX3oRBWqDReUyD8BWCErCxawg",
+  "tvl": 9789888,
+  "claimable": 0,
+  "contract": "NULSd6Hgvd8hcovpG3v2E9oxAB7CtYACvu114",
+  "stakingContract": "NULSd6Hgt6193U5Jar4WkCCGB3EWyVSSsPi6V"
+}
+]

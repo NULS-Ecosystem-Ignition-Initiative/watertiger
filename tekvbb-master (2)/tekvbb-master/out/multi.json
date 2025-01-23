@@ -1,0 +1,19 @@
+[
+  {
+    "id": 124872342,
+    "logo": "logos/CCFI.png",
+    "name": "CCFI",
+    "options": {
+      "convert": true,
+      "stake": true
+    },
+    "apr": 109.9,
+    "staked": 0,
+    "tvl": 9789888,
+    "claimable": 0,
+    "contract": "NULSd6HgxUtEori24i4MXQeqPwSYoPrKafppC",
+    "stakingContract": "NULSd6Hgqms89omEK9saTUS7YvmBUnAk61T8j",
+    "stakingContractRouter": "NULSd6HgsVEE6vhwR8jwV74ELURum6vQ8Eekf",
+    "decimals": 18
+  }
+]
